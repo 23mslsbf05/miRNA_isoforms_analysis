@@ -40,7 +40,7 @@ process_sample() {
         -pre . \
         -o "$miraligner_output"
 
-    # Step 5: Generate isomiR count (dummy placeholder filenames)
+    # Step 5: Generate isomiR count
     python generate_isomir_count.py "${miraligner_output}.mirna" "${sample_name}_isomir_counts.csv"
 
     echo "Finished processing $sample_name."
