@@ -1,7 +1,7 @@
-<h1 align="left" style="display: flex; justify-content: space-between; align-items: center;">
+<h1 align="left">
   miRNA_isoforms_analysis
-  <a href="https://www.linkedin.com/in/sourabh71kumawat/" target="_blank" style="margin-left: auto;">
-    <img src="https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/sourabh71kumawat/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" align="right" />
   </a>
 </h1>
 
