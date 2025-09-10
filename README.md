@@ -8,3 +8,4 @@
 <p>This repository contains a portion of codes and scripts I used to complete my dissertation work on:</p>
 
 **“Regulatory landscape of Novel Targets and Pathways Regulated by Imprecise Drosha/Dicer cleavage 5' miRNA Isoforms in a Rat Model of Vascular Dementia”**
+<img width=100% alt="image" src="https://github.com/user-attachments/assets/f28e4bf4-ecf5-40af-a7f8-abf8e498c92f" />
